@@ -34,4 +34,4 @@ config.py
 live-config.py
 routes.py
 .env
-/.env.example
+.env.example
