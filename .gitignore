@@ -33,5 +33,7 @@ __pycache__
 config.py
 live-config.py
 routes.py
+/.env.example
+/.env
 .env
 .env.example
